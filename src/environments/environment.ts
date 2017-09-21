@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-     apiKey: "AIzaSyBUC85n_dPuWlFbIwKVib1-K86W9EMugRA",
-    authDomain: "chat-fd793.firebaseapp.com",
-    databaseURL: "https://chat-fd793.firebaseio.com",
-    projectId: "chat-fd793",
-    storageBucket: "chat-fd793.appspot.com",
-    messagingSenderId: "687541417578"
+     apiKey: "YOUR",
+    authDomain: "FIREBASE",
+    databaseURL: "API",
+    projectId: "KEY",
+    storageBucket: "SHOULD BE",
+    messagingSenderId: "PASTED HERE"
   }
 };
